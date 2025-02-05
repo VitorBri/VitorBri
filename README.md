@@ -12,7 +12,7 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorBri&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)]
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorBri&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)
 
 ### Projetos
 
