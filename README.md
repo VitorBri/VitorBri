@@ -23,3 +23,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=aniversario&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=efood)
+
+<a href="https://github.com/VitorBri/efood" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=efood" alt="Repo Card" />
+</a>
