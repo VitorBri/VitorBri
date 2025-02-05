@@ -12,18 +12,10 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorBri&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorBri&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=efood&theme=dark)](https://github.com/VitorBri/efood)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=efood&theme=tokyonight)](https://github.com/VitorBri/efood)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=aniversario&theme=dark)](https://github.com/VitorBri/aniversario)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=aniversario&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=efood)
-
-<a href="https://github.com/VitorBri/efood" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=efood&theme=tokyonight" alt="Repo Card" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=aniversario&theme=tokyonight)](https://github.com/VitorBri/aniversario)
