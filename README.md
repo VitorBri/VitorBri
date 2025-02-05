@@ -25,5 +25,5 @@
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=efood)
 
 <a href="https://github.com/VitorBri/efood" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=efood" alt="Repo Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=efood&theme=dark" alt="Repo Card" />
 </a>
