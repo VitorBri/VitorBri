@@ -18,4 +18,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=efood&theme=dark)](https://github.com/VitorBri/efood)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=aniversario&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=aniversario&theme=dark)](https://github.com/VitorBri/aniversario)
