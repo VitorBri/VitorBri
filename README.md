@@ -16,6 +16,6 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=efood&theme=tokyonight)](https://github.com/VitorBri/efood)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=efood&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/efood)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=aniversario&theme=tokyonight)](https://github.com/VitorBri/aniversario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=aniversario&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/aniversario)
