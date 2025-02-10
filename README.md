@@ -39,8 +39,8 @@
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBri&layout=compact)](https://github.com/VitorBri)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBri&layout=compact&bg_color=00000000)](https://github.com/VitorBri)
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/www.linkedin.com/in/vitorbri/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/vitorbri/)
