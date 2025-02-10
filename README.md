@@ -16,27 +16,27 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=efood&bg_color=00000000&title_color=ffffff&text_color=c9d1d0)](https://github.com/VitorBri/efood)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=efood&bg_color=00000000)](https://github.com/VitorBri/efood)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=eplay&bg_color=00000000&title_color=ffffff&text_color=c9d1d0)](https://github.com/VitorBri/eplay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=eplay&bg_color=00000000)](https://github.com/VitorBri/eplay)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=calculadora_simples&bg_color=00000000&title_color=ffffff&text_color=c9d1d0)](https://github.com/VitorBri/calculadora_simples)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=calculadora_simples&bg_color=00000000)](https://github.com/VitorBri/calculadora_simples)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=aniversario&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/aniversario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=aniversario&bg_color=00000000)](https://github.com/VitorBri/aniversario)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=ebac-games&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/ebac-games)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=ebac-games&bg_color=00000000)](https://github.com/VitorBri/ebac-games)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=ebac_talks&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/ebac_talks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=ebac_talks&bg_color=00000000)](https://github.com/VitorBri/ebac_talks)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=lista_contatos&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/lista_contatos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=lista_contatos&bg_color=00000000)](https://github.com/VitorBri/lista_contatos)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=sorteador_grunt&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/sorteador_grunt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=sorteador_grunt&bg_color=00000000)](https://github.com/VitorBri/sorteador_grunt)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=friends_page&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/friends_page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=friends_page&bg_color=00000000)](https://github.com/VitorBri/friends_page)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=calculadora_imc&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/calculadora_imc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=calculadora_imc&bg_color=00000000)](https://github.com/VitorBri/calculadora_imc)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=luar_moveis&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/luar_moveis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=luar_moveis&bg_color=00000000)](https://github.com/VitorBri/luar_moveis)
 
 
 
