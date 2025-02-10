@@ -22,7 +22,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=ebac-games&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/ebac-games)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=eplay&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/eplay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=eplay&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/eplay/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=ebac_talks&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/ebac_talks)
 
@@ -35,6 +35,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=calculadora_imc&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/calculadora_imc)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=luar_moveis&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/luar_moveis)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorBri&repo=calculadora_simples&bg_color=00000000&title_color=ffffff&text_color=c9d1d9)](https://github.com/VitorBri/calculadora_simples)
 
 
 ### Linguagens utilizadas
